@@ -12,7 +12,7 @@ This repository contains a C++ implementation of a 3D label pointcloud tool, it 
 
 ###  2.*pcds to save the classes.
 
-![Image text][https://github.com/Allchen/3D-Label-PointCloud/blob/master/pictures/car.pngg]
+![Image text][https://github.com/Allchen/3D-Label-PointCloud/blob/master/pictures/car.png]
 
 ###  3.A 3D demo img that shows the label *.txt can be found below.
 
